@@ -1,0 +1,13 @@
+{
+    "author": "Igor Spichkin",
+    "classifications": [
+        "Common"
+    ],
+    "name": "Standart .NET C# Template",
+    "identity": "IgorS.Template",
+    "shortName": "stdnet",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "IgorS.Template"
+}
