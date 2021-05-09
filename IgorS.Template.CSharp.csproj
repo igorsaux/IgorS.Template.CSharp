@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0</PackageVersion>
+    <PackageVersion>1.1</PackageVersion>
     <PackageId>IgorS.Template.CSharp</PackageId>
-    <Title>Standart console .NET 5 C# template</Title>
+    <Title>Standart C# template</Title>
     <Authors>Igor Spichkin</Authors>
     <PackageTags>dotnet-new;templates</PackageTags>
     <RepositoryUrl>https://github.com/igorsaux/IgorS.Template.CSharp</RepositoryUrl>

@@ -3,9 +3,9 @@
     "classifications": [
         "Common"
     ],
-    "name": "Standart .NET C# Template",
+    "name": "Standart C# Template",
     "identity": "IgorS.Template",
-    "shortName": "stdnet",
+    "shortName": "stdsharp",
     "tags": {
         "language": "C#"
     },
