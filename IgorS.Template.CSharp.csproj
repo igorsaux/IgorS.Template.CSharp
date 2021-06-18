@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.2</PackageVersion>
+    <PackageVersion>1.3</PackageVersion>
     <PackageId>IgorS.Template.CSharp</PackageId>
     <Title>Standart C# template</Title>
     <Authors>Igor Spichkin</Authors>
